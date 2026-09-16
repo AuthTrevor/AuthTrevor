@@ -1,6 +1,6 @@
 # Hi there 👋
 This is my readme on my profile.
-## If you're here for school-bypassing related
+## My Cool Stuff.
 
 Check the repos on here, or check my company! <a href="https://github.com/PlatinumDevNetwork">This</a> is my company you <b>MUST</b> check out also.
 
