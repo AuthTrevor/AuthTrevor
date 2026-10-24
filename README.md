@@ -14,7 +14,6 @@ If something is broken in a repo you can help by doing these:
 ## Contact info
 If you want your own repo bulit for example, or you need to contact me,
 
-Email: tdltesch@gmail.com
 
 Discord: Add me at AuthTrevor
 
