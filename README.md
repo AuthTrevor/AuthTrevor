@@ -18,7 +18,7 @@ I create, maintain, and improve software projects while exploring new tools and 
 
 ## 🏢 PlatinumDevNetwork
 
-I am a member of [**PlatinumDevNetwork**](https://github.com/PlatinumDevNetwork), a team focused on building and sharing useful technology projects.
+I am a member of [**PlatinumDevNetwork**](https://github.com/PlatinumDevNetwork), a team focused on building and getting over censorship.
 
 Explore the organization to see what we are creating.
 
